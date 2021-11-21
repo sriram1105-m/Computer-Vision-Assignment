@@ -24,6 +24,5 @@ report anything that manoeuvres in the meteor shower.”
 identical. The telescopes to which the cameras are attached have focal lengths of 12 m and are arranged
 3.5 km apart with their optical axes exactly aligned. The cameras have a 10-micron pixel spacing. I have
 50 frames captured simultaneously from the left and the right cameras, which I’ll put into a zip-file and
-send to you. I reckon you have until just before noon on Tuesday 23 rd March before the meteors reach
-Earth. You have to make your program work by then.” Mentally, you roll your sleeves up before turning to
+send to you. ” Mentally, you roll your sleeves up before turning to
 the keyboard and starting up Emacs. If the situation wasn’t so serious, this would be fun. . .
